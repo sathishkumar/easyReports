@@ -5,7 +5,7 @@
   "version": "0.0.1-beta10",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gokulvanan/easyReports"
+    "url": "https://github.com/msmdhussain/easyReports"
   },
   "main": "./lib/easyrep",
   "bin" : {
